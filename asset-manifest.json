@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/teacher21st/static/css/main.25c2ad2d.chunk.css",
-    "main.js": "/teacher21st/static/js/main.b885a7f1.chunk.js",
-    "main.js.map": "/teacher21st/static/js/main.b885a7f1.chunk.js.map",
+    "main.css": "/teacher21st/static/css/main.a227ff35.chunk.css",
+    "main.js": "/teacher21st/static/js/main.b9a0fa8a.chunk.js",
+    "main.js.map": "/teacher21st/static/js/main.b9a0fa8a.chunk.js.map",
     "runtime-main.js": "/teacher21st/static/js/runtime-main.7d1f0434.js",
     "runtime-main.js.map": "/teacher21st/static/js/runtime-main.7d1f0434.js.map",
     "static/css/2.d4afeea5.chunk.css": "/teacher21st/static/css/2.d4afeea5.chunk.css",
-    "static/js/2.6e546185.chunk.js": "/teacher21st/static/js/2.6e546185.chunk.js",
-    "static/js/2.6e546185.chunk.js.map": "/teacher21st/static/js/2.6e546185.chunk.js.map",
+    "static/js/2.713d47cb.chunk.js": "/teacher21st/static/js/2.713d47cb.chunk.js",
+    "static/js/2.713d47cb.chunk.js.map": "/teacher21st/static/js/2.713d47cb.chunk.js.map",
     "index.html": "/teacher21st/index.html",
-    "precache-manifest.4f16475b1a75c291c13fbe7dde4c5bf1.js": "/teacher21st/precache-manifest.4f16475b1a75c291c13fbe7dde4c5bf1.js",
+    "precache-manifest.da82b4354c936eba7b513360c3f881ac.js": "/teacher21st/precache-manifest.da82b4354c936eba7b513360c3f881ac.js",
     "service-worker.js": "/teacher21st/service-worker.js",
     "static/css/2.d4afeea5.chunk.css.map": "/teacher21st/static/css/2.d4afeea5.chunk.css.map",
-    "static/css/main.25c2ad2d.chunk.css.map": "/teacher21st/static/css/main.25c2ad2d.chunk.css.map",
-    "static/js/2.6e546185.chunk.js.LICENSE.txt": "/teacher21st/static/js/2.6e546185.chunk.js.LICENSE.txt",
+    "static/css/main.a227ff35.chunk.css.map": "/teacher21st/static/css/main.a227ff35.chunk.css.map",
+    "static/js/2.713d47cb.chunk.js.LICENSE.txt": "/teacher21st/static/js/2.713d47cb.chunk.js.LICENSE.txt",
     "static/media/01-01.jpg": "/teacher21st/static/media/01-01.0e384898.jpg",
     "static/media/01-02.jpg": "/teacher21st/static/media/01-02.bb0a8851.jpg",
     "static/media/01-03.jpg": "/teacher21st/static/media/01-03.7fa39f24.jpg",
@@ -100,8 +100,8 @@
   "entrypoints": [
     "static/js/runtime-main.7d1f0434.js",
     "static/css/2.d4afeea5.chunk.css",
-    "static/js/2.6e546185.chunk.js",
-    "static/css/main.25c2ad2d.chunk.css",
-    "static/js/main.b885a7f1.chunk.js"
+    "static/js/2.713d47cb.chunk.js",
+    "static/css/main.a227ff35.chunk.css",
+    "static/js/main.b9a0fa8a.chunk.js"
   ]
 }
