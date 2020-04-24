@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/teacher21st/static/css/main.a227ff35.chunk.css",
-    "main.js": "/teacher21st/static/js/main.a5161ad4.chunk.js",
-    "main.js.map": "/teacher21st/static/js/main.a5161ad4.chunk.js.map",
+    "main.js": "/teacher21st/static/js/main.37d7d950.chunk.js",
+    "main.js.map": "/teacher21st/static/js/main.37d7d950.chunk.js.map",
     "runtime-main.js": "/teacher21st/static/js/runtime-main.7d1f0434.js",
     "runtime-main.js.map": "/teacher21st/static/js/runtime-main.7d1f0434.js.map",
     "static/css/2.d4afeea5.chunk.css": "/teacher21st/static/css/2.d4afeea5.chunk.css",
     "static/js/2.e22b11e3.chunk.js": "/teacher21st/static/js/2.e22b11e3.chunk.js",
     "static/js/2.e22b11e3.chunk.js.map": "/teacher21st/static/js/2.e22b11e3.chunk.js.map",
     "index.html": "/teacher21st/index.html",
-    "precache-manifest.98c5b23a9c15f60538ed88f3c1c0eb05.js": "/teacher21st/precache-manifest.98c5b23a9c15f60538ed88f3c1c0eb05.js",
+    "precache-manifest.934159c31c39fa20a33137fd7223f7fc.js": "/teacher21st/precache-manifest.934159c31c39fa20a33137fd7223f7fc.js",
     "service-worker.js": "/teacher21st/service-worker.js",
     "static/css/2.d4afeea5.chunk.css.map": "/teacher21st/static/css/2.d4afeea5.chunk.css.map",
     "static/css/main.a227ff35.chunk.css.map": "/teacher21st/static/css/main.a227ff35.chunk.css.map",
@@ -102,6 +102,6 @@
     "static/css/2.d4afeea5.chunk.css",
     "static/js/2.e22b11e3.chunk.js",
     "static/css/main.a227ff35.chunk.css",
-    "static/js/main.a5161ad4.chunk.js"
+    "static/js/main.37d7d950.chunk.js"
   ]
 }

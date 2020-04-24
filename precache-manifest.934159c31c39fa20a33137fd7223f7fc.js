@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76e13bb8a1e0aece1430bfdff7647c90",
+    "revision": "363596f600545dd91a000bcbde0d35a1",
     "url": "/teacher21st/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teacher21st/static/css/2.d4afeea5.chunk.css"
   },
   {
-    "revision": "a6a25ee8a101e4165ed2",
+    "revision": "4260f5c98f78cab46afd",
     "url": "/teacher21st/static/css/main.a227ff35.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teacher21st/static/js/2.e22b11e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6a25ee8a101e4165ed2",
-    "url": "/teacher21st/static/js/main.a5161ad4.chunk.js"
+    "revision": "4260f5c98f78cab46afd",
+    "url": "/teacher21st/static/js/main.37d7d950.chunk.js"
   },
   {
     "revision": "e5afad71e50000cd7ae7",
