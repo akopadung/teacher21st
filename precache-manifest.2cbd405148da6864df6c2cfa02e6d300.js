@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a68369fde05afeeed50268f36b145bc4",
+    "revision": "dfd5ad6ce3e2d8e7bb6f8448cd4e655b",
     "url": "/teacher21st/index.html"
   },
   {
-    "revision": "c6a016e4fdfcdb5232be",
-    "url": "/teacher21st/static/css/2.d4afeea5.chunk.css"
+    "revision": "8076928b047ae39b3adc",
+    "url": "/teacher21st/static/css/2.b63f8682.chunk.css"
   },
   {
-    "revision": "7d5916355575d661c7d0",
-    "url": "/teacher21st/static/css/main.a227ff35.chunk.css"
+    "revision": "585f6d81334c33010283",
+    "url": "/teacher21st/static/css/main.e344351c.chunk.css"
   },
   {
-    "revision": "c6a016e4fdfcdb5232be",
-    "url": "/teacher21st/static/js/2.5000fbb3.chunk.js"
+    "revision": "8076928b047ae39b3adc",
+    "url": "/teacher21st/static/js/2.c50cc95b.chunk.js"
   },
   {
-    "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/teacher21st/static/js/2.5000fbb3.chunk.js.LICENSE.txt"
+    "revision": "5b8b49146ea7ff4abb4f22a9d28772fe",
+    "url": "/teacher21st/static/js/2.c50cc95b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d5916355575d661c7d0",
-    "url": "/teacher21st/static/js/main.40410d62.chunk.js"
+    "revision": "585f6d81334c33010283",
+    "url": "/teacher21st/static/js/main.a6f8837e.chunk.js"
   },
   {
     "revision": "e5afad71e50000cd7ae7",
@@ -344,6 +344,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teacher21st/static/media/banner1.029b42ca.jpg"
   },
   {
+    "revision": "f08afd8376233b49a5c2575bc540ff09",
+    "url": "/teacher21st/static/media/cer01.f08afd83.jpg"
+  },
+  {
+    "revision": "17e90d8479d9cfb01a6690e6337624d6",
+    "url": "/teacher21st/static/media/grad1.17e90d84.jpg"
+  },
+  {
+    "revision": "dfeadfff4dbe8c7a200e7ad20b5ce620",
+    "url": "/teacher21st/static/media/grad2.dfeadfff.jpg"
+  },
+  {
+    "revision": "8af056007a3de99faae8376d0f986d32",
+    "url": "/teacher21st/static/media/grad3.8af05600.jpg"
+  },
+  {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/teacher21st/static/media/logo.5d5d9eef.svg"
   },
@@ -354,5 +370,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b9cd405b5d74da4d34fd4205544af17a",
     "url": "/teacher21st/static/media/profileMain.b9cd405b.jpg"
+  },
+  {
+    "revision": "2ea4e3760c93bc7dd6472770b609209b",
+    "url": "/teacher21st/static/media/work1.2ea4e376.jpg"
   }
 ]);
