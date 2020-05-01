@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68618301a9e174899e9aa3d8f56e585c",
+    "revision": "07380535a1cc2ec484af779111b8873f",
     "url": "/teacher21st/index.html"
   },
   {
-    "revision": "2ea10e7afefaceed0113",
+    "revision": "d89cac9ea74e0662efeb",
     "url": "/teacher21st/static/css/2.b63f8682.chunk.css"
   },
   {
-    "revision": "d95620f1202c05c97654",
+    "revision": "cb7986d8d63c880c7844",
     "url": "/teacher21st/static/css/main.9a02ccd4.chunk.css"
   },
   {
-    "revision": "2ea10e7afefaceed0113",
-    "url": "/teacher21st/static/js/2.257e5efc.chunk.js"
+    "revision": "d89cac9ea74e0662efeb",
+    "url": "/teacher21st/static/js/2.5e3b7637.chunk.js"
   },
   {
     "revision": "5b8b49146ea7ff4abb4f22a9d28772fe",
-    "url": "/teacher21st/static/js/2.257e5efc.chunk.js.LICENSE.txt"
+    "url": "/teacher21st/static/js/2.5e3b7637.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d95620f1202c05c97654",
-    "url": "/teacher21st/static/js/main.b3a678eb.chunk.js"
+    "revision": "cb7986d8d63c880c7844",
+    "url": "/teacher21st/static/js/main.d01cddbb.chunk.js"
   },
   {
     "revision": "e5afad71e50000cd7ae7",
