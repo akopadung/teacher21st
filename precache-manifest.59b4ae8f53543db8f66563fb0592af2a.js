@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3328b07f5573f132346bfc2c646ae82a",
+    "revision": "60efd0e33950392b6df42a7063608e6f",
     "url": "/teacher21st/index.html"
   },
   {
-    "revision": "9c1e847b5190da1ebd5f",
+    "revision": "ba2823947c85fcc38c0f",
     "url": "/teacher21st/static/css/2.754ea43e.chunk.css"
   },
   {
-    "revision": "7225f72cbada222b18cd",
-    "url": "/teacher21st/static/css/main.95460b47.chunk.css"
+    "revision": "c20d553f8b2b064d1264",
+    "url": "/teacher21st/static/css/main.1684f686.chunk.css"
   },
   {
-    "revision": "9c1e847b5190da1ebd5f",
-    "url": "/teacher21st/static/js/2.7f0b8945.chunk.js"
+    "revision": "ba2823947c85fcc38c0f",
+    "url": "/teacher21st/static/js/2.16263bce.chunk.js"
   },
   {
     "revision": "2881c4a89c3c7ad239c40a9c9582b16d",
-    "url": "/teacher21st/static/js/2.7f0b8945.chunk.js.LICENSE.txt"
+    "url": "/teacher21st/static/js/2.16263bce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7225f72cbada222b18cd",
-    "url": "/teacher21st/static/js/main.1da4df3a.chunk.js"
+    "revision": "c20d553f8b2b064d1264",
+    "url": "/teacher21st/static/js/main.3048c2c4.chunk.js"
   },
   {
     "revision": "e5afad71e50000cd7ae7",
@@ -342,6 +342,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fd28971336f82bec0213a419734bc323",
     "url": "/teacher21st/static/media/13s.fd289713.jpg"
+  },
+  {
+    "revision": "77342df0d47b989bf24a652cf1bc3a2d",
+    "url": "/teacher21st/static/media/Mitr-Light.77342df0.ttf"
   },
   {
     "revision": "2598f132190b9c3ca7bf0073fc35f467",
