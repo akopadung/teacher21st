@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28bb87e15aaa5d5b43d72875d77e070b",
+    "revision": "e870a1d3881e17f7072dfcce8139bb4f",
     "url": "/teacher21st/index.html"
   },
   {
-    "revision": "1106270f4732bbc1472d",
+    "revision": "90d9bc71f21e967079c0",
     "url": "/teacher21st/static/css/2.754ea43e.chunk.css"
   },
   {
-    "revision": "c77437830bcf4824b5de",
+    "revision": "f7a2b52e53ac4395fde6",
     "url": "/teacher21st/static/css/main.160dbcba.chunk.css"
   },
   {
-    "revision": "1106270f4732bbc1472d",
-    "url": "/teacher21st/static/js/2.113cea8b.chunk.js"
+    "revision": "90d9bc71f21e967079c0",
+    "url": "/teacher21st/static/js/2.9d30b7a9.chunk.js"
   },
   {
     "revision": "2881c4a89c3c7ad239c40a9c9582b16d",
-    "url": "/teacher21st/static/js/2.113cea8b.chunk.js.LICENSE.txt"
+    "url": "/teacher21st/static/js/2.9d30b7a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c77437830bcf4824b5de",
-    "url": "/teacher21st/static/js/main.cbed2790.chunk.js"
+    "revision": "f7a2b52e53ac4395fde6",
+    "url": "/teacher21st/static/js/main.b466cb33.chunk.js"
   },
   {
     "revision": "e5afad71e50000cd7ae7",
@@ -344,12 +344,80 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teacher21st/static/media/13s.fd289713.jpg"
   },
   {
+    "revision": "4ff4ca4e8d88fa5a318a17aa9fea9385",
+    "url": "/teacher21st/static/media/13s1.4ff4ca4e.jpg"
+  },
+  {
+    "revision": "d2711e91cc053823594465008396f884",
+    "url": "/teacher21st/static/media/13s10.d2711e91.jpg"
+  },
+  {
+    "revision": "13262d932801801663bc855415ca9d04",
+    "url": "/teacher21st/static/media/13s11.13262d93.jpg"
+  },
+  {
+    "revision": "3627d29cf3578ba9d350940ef3f20dcf",
+    "url": "/teacher21st/static/media/13s12.3627d29c.jpg"
+  },
+  {
+    "revision": "24cb55ab5a3ca422c8882afb1a290af0",
+    "url": "/teacher21st/static/media/13s13.24cb55ab.jpg"
+  },
+  {
+    "revision": "526ce36308c84d2e1c631e8449160467",
+    "url": "/teacher21st/static/media/13s2.526ce363.jpg"
+  },
+  {
+    "revision": "e7577d15a37d6c45670231590c37ff1a",
+    "url": "/teacher21st/static/media/13s3.e7577d15.jpg"
+  },
+  {
+    "revision": "87781587caadb7f909c66d42b9a9d378",
+    "url": "/teacher21st/static/media/13s4.87781587.jpg"
+  },
+  {
+    "revision": "6b331e7321f438ed6609a9f7870489e2",
+    "url": "/teacher21st/static/media/13s5.6b331e73.jpg"
+  },
+  {
+    "revision": "897ca89d9f6bc79eb9958ca50b597b16",
+    "url": "/teacher21st/static/media/13s6.897ca89d.jpg"
+  },
+  {
+    "revision": "52fd8d3d96bcbcc5ecf21c437804ed88",
+    "url": "/teacher21st/static/media/13s7.52fd8d3d.jpg"
+  },
+  {
+    "revision": "892c2e68d9d321bda276cdc44d8c3818",
+    "url": "/teacher21st/static/media/13s8.892c2e68.jpg"
+  },
+  {
+    "revision": "357bdf7e0e2b7d3001004d90c26ab4ce",
+    "url": "/teacher21st/static/media/13s9.357bdf7e.jpg"
+  },
+  {
     "revision": "77342df0d47b989bf24a652cf1bc3a2d",
     "url": "/teacher21st/static/media/Mitr-Light.77342df0.ttf"
   },
   {
-    "revision": "2598f132190b9c3ca7bf0073fc35f467",
-    "url": "/teacher21st/static/media/banner1.2598f132.jpg"
+    "revision": "4b38aaff6c146048f7d73983a6611f0f",
+    "url": "/teacher21st/static/media/banner1.4b38aaff.jpg"
+  },
+  {
+    "revision": "35e472ea42d6806328798c14a4a5093f",
+    "url": "/teacher21st/static/media/banner2.35e472ea.jpg"
+  },
+  {
+    "revision": "50cf70751c3d5e920c7457b3ed6087ae",
+    "url": "/teacher21st/static/media/banner3.50cf7075.jpg"
+  },
+  {
+    "revision": "ce2c6c94dfdf435d7e2d31e3148466ec",
+    "url": "/teacher21st/static/media/banner4.ce2c6c94.jpg"
+  },
+  {
+    "revision": "85b9e7568af791e0fe9acceb9045f3b5",
+    "url": "/teacher21st/static/media/banner5.85b9e756.jpg"
   },
   {
     "revision": "f08afd8376233b49a5c2575bc540ff09",
